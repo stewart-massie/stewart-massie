@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Dr Stewart Massie an Associate Professor at Robert Gordon University in Aberdeen Scotland.
+I'm module leader teaching post graduate modules on Information Retrieval and Web Development at RGU.
+My main research interests are in developing applications for data-driven problem support using case-based reasoning and Machine Learning. 
+I have several projects in the Health domain that aim to monitor health in the community using IoT approaches to identify changes in activities and behaviours.
+
 <!--
 **stewart-massie/stewart-massie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
